@@ -42,7 +42,8 @@ To get started with the exercises and projects in this repository, follow these 
 
 ## Hardware requirement
 
-- STM32F407G-DIC1
+- STM32F407G-DIC1 ![immagine](https://github.com/AlessandroS94/embedded_C_exercise/assets/27149998/de650ad8-c224-422b-8b2a-36942afe9ff9)
+
 - CABLE mini b type c ![immagine](https://github.com/AlessandroS94/embedded_C_exercise/assets/27149998/61ea006d-3c4c-40b2-b48f-70009197c384)
 
 
